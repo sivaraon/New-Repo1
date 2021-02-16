@@ -1,1 +1,2 @@
 This is my new file.
+Added second line before push to remote.Changes made.
